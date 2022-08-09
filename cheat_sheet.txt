@@ -1,4 +1,22 @@
 GENERAL TERMINAL COMMANDS
-
-
+	pwd = print working directory
+	ls = list 
+	-(_) = adds functionality to a command
+		-l = shows information about files
+		-a = shows hidden files 
+		-r = applies the command recursively (allows you to delete and copy directories)
+		-m = message 
+	man (command) = displays a manual demonstrating the uses of a command
+	clear = clears the window
+	. = indicates a hidden file if at the front, indicates a file extension if at the rear
+	cd = change directory
+	mkdir = make directory 
+	touch = create a file
+	open = open either a directory or a file with the most appropriate method
+	rm = remove/delete (THIS IS PERMANENT, BE CAREFUL)
+	cp = copy, requires what and where (where must exist)
+	mv = move, requires what and where (can create the where or rename the object being moved if necessary)
+	q = returns you to terminal (e.g. if in git log)
+	ctrl + c = returns to last point of the terminal
+	
 GIT SPECIFIC COMMANDS
