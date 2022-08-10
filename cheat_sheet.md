@@ -10,6 +10,7 @@
 	- -a = shows hidden files 
 	- -r = applies the command recursively (allows you to delete and copy directories)
 	- -m = message 
+	- -u = sets a default location 
 - man (command) = displays a manual demonstrating the uses of a command
 - clear = clears the window
 - . = indicates a hidden file if at the front, indicates a file extension if at the rear
